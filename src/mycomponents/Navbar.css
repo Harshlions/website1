@@ -1,0 +1,133 @@
+.navbar {
+    position:absolute;
+    height: 80px;
+    left: -1px;
+    right: 1px;
+    top: 0px;
+    width: auto;
+   
+    background: #FFFFFF;
+}
+
+
+.navbar-brand {
+  
+  padding-left: 70px;
+}
+
+.navbar-nav {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 80.59px;
+  
+  position: absolute;
+  width: 800.35px;
+  height: 30px;
+  right: 90.02px;
+  top: 21.95px;
+  
+}
+
+#contact {
+  
+
+
+
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 20px;
+
+/* Secondary */
+
+color: #F9995D;
+
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 4;
+flex-grow: 0;
+}
+
+#home {
+ 
+
+
+
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 20px;
+
+/* Neutral/900 */
+
+color: #14171F;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+
+}
+
+#about {
+  
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 20px;
+
+/* Neutral/900 */
+
+color: #14171F;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+
+#project {
+  font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 20px;
+
+/* Neutral/900 */
+
+color: #14171F;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+
+#service {
+  font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 20px;
+
+/* Neutral/900 */
+
+color: #14171F;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+

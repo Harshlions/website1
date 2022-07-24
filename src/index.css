@@ -1,0 +1,45 @@
+.navbar {
+  position:absolute;
+  height: 80px;
+  left: -1px;
+  right: 1px;
+  top: 0px;
+  width: auto;
+ 
+  background: #FFFFFF;
+}
+
+.collapse navbar-collapse {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 50px;
+  
+  position: absolute;
+  width: 577px;
+  height: 21px;
+  right: 112px;
+  top: 30px;
+
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  
+  /* Neutral/900 */
+  
+  color: #14171F;
+  
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 2;
+  flex-grow: 0; 
+}
+.navbar-brand {
+
+padding-left: 40px;
+}
