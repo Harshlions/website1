@@ -8,23 +8,23 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: flex-start;
-padding: 12.0416px;
-gap: 0.8px;
+padding: 0.753rem;
+gap: 0.8rem;
 
 position: absolute;
-width: 300.39px;
-height: 200.98px;
-left: 450px;
-top: 220.97rem;
+width: 18.774rem;
+height: 12.561rem;
+left: 28.125rem;
+top: 220rem;
 
 /* Neutral/50 */
 
 background: #F6F8F7;
 /* Neutral/50 */
 
-border: 0.401387px solid #F6F8F7;
-box-shadow: 0px 4.81664px 6.42219px -1.60555px rgba(17, 24, 39, 0.1), 0px 1.60555px 2.40832px -0.802774px rgba(17, 24, 39, 0.05);
-border-radius: 1.60555px;
+border: 0.025rem solid #F6F8F7;
+box-shadow: 0rem 0.301rem 0.401rem -0.1rem rgba(17, 24, 39, 0.1), 0rem 0.1rem 0.151rem -0.05rem rgba(17, 24, 39, 0.05);
+border-radius: 0.1rem;
 }
  
 .boxess h1 {
@@ -33,8 +33,8 @@ border-radius: 1.60555px;
 
 font-style: normal;
 font-weight: 600;
-font-size: 80px;
-line-height: 34px;
+font-size: 5rem;
+line-height: 2.125rem;
 display: flex;
 align-items: flex-end;
 
@@ -51,13 +51,13 @@ flex-grow: 0;
 }
 .boxess h3 {
 
-height: 15px;
+height: 0.938rem;
 
 font-style: normal;
 font-weight: 400;
-font-size: 30px;
-line-height: 11px;
-padding-left: 40px;
+font-size: 1.875rem;
+line-height: 0.688rem;
+padding-left: 2.5rem;
 
 /* Neutral/500 */
 
@@ -75,10 +75,10 @@ flex-grow: 0;
  /* illus */
 
 position: absolute;
-width: 88.93px;
-height: 88.93px;
-left: calc(50% - 1px/2 + 100.83px);
-top: -8.34px;
+width:5.558rem;
+height: 5.558rem;
+left: calc(50% - 0.063rem/2 + 6.302rem);
+top: -0.521rem;
 }
 
 #box21 {
@@ -90,69 +90,68 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: flex-start;
-padding: 12.0416px;
-gap: 0.8px;
+padding: 0.753rem;
+gap: 0.05rem;
 
 position: absolute;
-width: 400.39px;
-height: 200.98px;
-left: 150px;
+width: 25.024rem;
+height: 12.561rem;
+left: 9.375rem;
 top: 230rem;
 
 background: #FFFFFF;
 /* Neutral/50 */
 
-border: 0.401387px solid #F6F8F7;
-box-shadow: 0px 4.81664px 6.42219px -1.60555px rgba(17, 24, 39, 0.1), 0px 1.60555px 2.40832px -0.802774px rgba(17, 24, 39, 0.05);
-border-radius: 1.60555px;
-
+border: 0.025rem solid #F6F8F7;
+box-shadow: 0rem 0.301rem 0.401rem -0.1rem rgba(17, 24, 39, 0.1), 0rem 0.1rem 0.151rem -0.05rem rgba(17, 24, 39, 0.05);
+border-radius: 0.1rem;
 }
 
 #box21 img{
   /* illus */
  
  position: absolute;
- width: 88.93px;
- height: 88.93px;
- right: calc(50% + 100px/2 + 100.83px);
- top: -70.34px;
+ width:5.558rem;
+ height: 5.558rem;
+ right: calc(50% + 6.25rem/2 + 6.302rem);
+ top: -4.396rem;
  }
 
 #box31 {
   box-sizing: border-box;
 
-/* Auto layout */
-
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: flex-start;
-padding: 12.0416px;
-gap: 0.8px;
-
-position: absolute;
-width: 300.39px;
-height: 200.98px;
-left: 450px;
-top: 241rem;
-
-/* Neutral/50 */
-
-background: #F6F8F7;
-/* Neutral/50 */
-
-border: 0.401387px solid #F6F8F7;
-box-shadow: 0px 4.81664px 6.42219px -1.60555px rgba(17, 24, 39, 0.1), 0px 1.60555px 2.40832px -0.802774px rgba(17, 24, 39, 0.05);
-border-radius: 1.60555px;
+  /* Auto layout */
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0.753rem;
+  gap: 0.8rem;
+  
+  position: absolute;
+  width: 18.774rem;
+  height: 12.561rem;
+  left: 28.125rem;
+  top: 240rem;
+  
+  /* Neutral/50 */
+  
+  background: #F6F8F7;
+  /* Neutral/50 */
+  
+  border: 0.025rem solid #F6F8F7;
+  box-shadow: 0rem 0.301rem 0.401rem -0.1rem rgba(17, 24, 39, 0.1), 0rem 0.1rem 0.151rem -0.05rem rgba(17, 24, 39, 0.05);
+  border-radius: 0.1rem;
 }
 #box31 img{
   /* illus */
  
  position: absolute;
- width: 88.93px;
- height: 88.93px;
- left: calc(50% - 1px/2 + 100.83px);
- top: -10.34px;
+ width: 5.558rem;
+ height: 5.558rem;
+ left: calc(50% - 0.063rem/2 + 6.302rem);
+ top: -0.646rem;
  }
 
 #box41 {
@@ -164,44 +163,43 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: flex-start;
-padding: 12.0416px;
-gap: 0.8px;
+padding: 0.753rem;
+gap: 0.05rem;
 
 position: absolute;
-width: 400.39px;
-height: 200.98px;
-left: 150px;
+width: 25.024rem;
+height: 12.561rem;
+left: 9.375rem;
 top: 250rem;
 
 background: #FFFFFF;
 /* Neutral/50 */
 
-border: 0.401387px solid #F6F8F7;
-box-shadow: 0px 4.81664px 6.42219px -1.60555px rgba(17, 24, 39, 0.1), 0px 1.60555px 2.40832px -0.802774px rgba(17, 24, 39, 0.05);
-border-radius: 1.60555px;
-
+border: 0.025rem solid #F6F8F7;
+box-shadow: 0rem 0.301rem 0.401rem -0.1rem rgba(17, 24, 39, 0.1), 0rem 0.1rem 0.151rem -0.05rem rgba(17, 24, 39, 0.05);
+border-radius: 0.1rem;
 }
 #box41 img{
   /* illus */
  
  position: absolute;
- width: 88.93px;
- height: 88.93px;
- left: calc(50% + 100px/2 + 100.83px);
- top: 150.34px;
+ width: 5.558rem;
+ height: 5.558rem;
+ left: calc(50% + 6.25rem/2 + 6.302rem);
+ top: 9.646rem;
  }
 
 .writing h1 {
   position: absolute;
 
-right: calc(50% - 900px/2 + 100.83px);
+right: calc(50% - 56.25rem/2 + 6.302rem);
 top: 225rem;
 
 font-family: 'Work Sans';
 font-style: normal;
 font-weight: 700;
-font-size: 80px;
-line-height: 28px;
+font-size: 5rem;
+line-height: 1.75rem;
 
 /* Primary */
 
@@ -212,16 +210,16 @@ color: #2947A9;
 
 .writing p {
   position: absolute;
-width: 600.46px;
-height: 36.12px;
-right: calc(50% - 1350px/2 + 100.83px);
+width: 37.529rem;
+height: 2.258rem;
+right: calc(50% - 84.375rem/2 + 6.302rem);
 top: 237.29rem;
 
 font-family: 'Work Sans';
 font-style: normal;
 font-weight: 400;
-font-size: 30px;
-line-height: 40px;
+font-size: 1.875rem;
+line-height: 2.5rem;
 
 /* Neutral/600 */
 
@@ -235,21 +233,21 @@ color: #525B7A;
 flex-direction: row;
 justify-content: center;
 align-items: center;
-padding: 6.42219px 8.02774px;
-gap: 4.01px;
+padding: 0.401rem 0.502rem;
+gap: 4.01rem;
 
 position: absolute;
-width: 140.64px;
-height: 50.84px;
-right: 870.3px;
-top: 255rem;
+width: 8.79rem;
+height: 3.178rem;
+right: 54.394rem;
+top: 250rem;
 color: #F6F8F7;
-font-size: 20px;
+font-size: 1.25rem;
 
 /* Primary */
 
 background: #2947A9;
-border-radius: 0.802774px;
+border-radius: 0.1rem;
 }
 
 
@@ -257,20 +255,42 @@ border-radius: 0.802774px;
 
   .writing p {
   
-  right: 175.13px;
+  right:10.946rem;
 
   }
 
   .btn {
    
-  right: 630.3px;
+  right: 39.394rem;
  
   }
 
   .writing h1 {
   
-  right: 400.85px;
+  right: 25.053rem;
   
   }
 
   }
+
+  @media only screen and (max-width: 1440px) and (min-width: 1400px) {
+
+    .writing p {
+    
+    right: 1.883rem;
+  
+    }
+  
+    .btn {
+     
+    right: 31.269rem;
+   
+    }
+  
+    .writing h1 {
+    
+    right: 15.678rem;
+    
+    }
+  
+    }

@@ -9,7 +9,7 @@ function Navbar() {
   return (
     <>
     <nav className="navbar">
-    <nav className="navbar navbar-expand-lg bg-light">
+    <nav className="navbar navbar-expand-lg bg-transparent">
   <div className="container-fluid">
   <div className="container">
     <Link className="navbar-brand" to="">

@@ -222,6 +222,7 @@ color: #292E3D;
 
 #cons, #repair {
     left: 1.25rem;
+    
 }
 
 #reno, #arc {
@@ -232,3 +233,24 @@ color: #292E3D;
     left: 68.25rem;
 }
 }
+
+@media only screen and (max-width: 1440px) and (min-width: 1400px) {
+
+    #cons, #repair {
+        left: 2rem;
+        width: 27rem;
+        height: 17rem;
+    }
+    
+    #reno, #arc {
+        left: 33rem;
+        width: 27rem;
+        height: 17rem;
+    }
+    
+    #consal, #elec {
+        left: 64rem;
+        width: 27rem;
+        height: 17rem;
+    }
+    }
