@@ -194,8 +194,8 @@ border-radius: 0.1rem;
 .writing h1 {
   position: absolute;
 
-right: calc(50% - 63.25rem/2 + 6.302rem);
-top: 225rem;
+right: 19rem;
+top: 170rem;
 
 font-family: 'Work Sans';
 font-style: normal;
@@ -214,8 +214,8 @@ color: #2947A9;
   position: absolute;
 width: 37.529rem;
 height: 2.258rem;
-right: calc(50% - 90.375rem/2 + 6.302rem);
-top: 237.29rem;
+right: 5rem;
+top: 180.29rem;
 
 font-family: 'Work Sans';
 font-style: normal;
@@ -241,8 +241,8 @@ gap: 4.01rem;
 position: absolute;
 width: 8.79rem;
 height: 3.178rem;
-right: 45.394rem;
-top: 250rem;
+right: 29.394rem;
+top: 195rem;
 color: #F6F8F7;
 font-size: 1.25rem;
 
@@ -253,3 +253,10 @@ border-radius: 0.1rem;
 }
 
 
+* {
+  max-width: 1625px;
+}
+
+.writing {
+  position: relative;
+}
