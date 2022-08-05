@@ -1,12 +1,8 @@
 
-.img{
- 
-    background-color: #E0E3EB;
-
-}
 
 
- .img h2 {
+
+ .cards h2 {
    
 
 font-family: 'Work Sans';
@@ -52,7 +48,7 @@ align-items: center;
 gap: 0.2rem;
 
 position: absolute;
-width: 30rem;
+width: 27rem;
 height: 20rem;
 left: 1.25rem;
 top: 162rem;
@@ -71,9 +67,9 @@ align-items: center;
 gap: 0.5rem;
 
 position: absolute;
-width: 30rem;
+width: 27rem;
 height: 20rem;
-left: 35.625rem;
+left: 31rem;
 top: 162rem;;
 
 /* Primary */
@@ -83,7 +79,7 @@ box-shadow: 0rem 0rem 14.8513rem -0.802774rem rgba(17, 24, 39, 0.05);
 border-radius: 0.63rem;
  }
 
-.img h4 {
+.cards h4 {
     font-family: 'Work Sans';
     font-style: normal;
     font-weight: 600;
@@ -116,9 +112,9 @@ flex-grow: 0;
     gap: 0.5rem;
     
     position: absolute;
-    width: 30rem;
+    width: 27rem;
     height: 20rem;
-    left: 70.25rem;
+    left: 61rem;
     top: 162rem;
 
     background: #FFFFFF;
@@ -134,7 +130,7 @@ align-items: center;
 gap: 0.5rem;
 
 position: absolute;
-width: 30rem;
+width: 27rem;
 height: 20rem;
 font-size: 1.875rem;
 line-height: 0.5rem;
@@ -156,11 +152,11 @@ align-items: center;
 gap: 0.5rem;
 
 position: absolute;
-width: 30rem;
+width: 27rem;
 height: 20rem;
 font-size: 1.875rem;
 line-height: 0.5rem;
-left: 35.625rem;
+left: 31rem;
 top: 190.75rem;
 
 background: #FFFFFF;
@@ -179,11 +175,11 @@ border-radius: 0.63rem;
 
 
 position: absolute;
-width: 30.5rem;
+width: 27rem;
 height: 20rem;
 font-size: 1.875rem;
 line-height: 0.5rem;
-left: 70.25rem;
+left: 61rem;
 top: 190.75rem;
 
 /* Primary */

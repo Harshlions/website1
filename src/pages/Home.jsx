@@ -6,11 +6,12 @@ function Home() {
     return (
      <>
         
-        <div className='home'>
-        <img src="/img/building.jpg"/>
+        <div className='home'>{/* home page */}
+        <img src="/img/building.jpg"/>{/*image*/}
             <h1>Our Reputition</h1>
-            <div className="boxes">
-              <div className="box1" id='box1'>
+            <div className="boxes">{/* parent div box */}
+          
+              <div className="box1" id='box1'>{/* best service box */}
               <svg width="50" height="50" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_757_134)">
 <path d="M14.6164 5.36822C14.9712 5.36822 15.3115 5.50919 15.5625 5.7601C15.8134 6.01102 15.9543 6.35133 15.9543 6.70618V9.3821C15.9543 9.73694 15.8134 10.0773 15.5625 10.3282C15.3115 10.5791 14.9712 10.7201 14.6164 10.7201H13.9059C13.7428 12.0134 13.1134 13.2028 12.1356 14.0649C11.1579 14.9271 9.89916 15.4029 8.59558 15.4029V14.0649C9.66012 14.0649 10.6811 13.6421 11.4338 12.8893C12.1866 12.1366 12.6094 11.1156 12.6094 10.0511V6.0372C12.6094 4.97266 12.1866 3.95172 11.4338 3.19897C10.6811 2.44622 9.66012 2.02333 8.59558 2.02333C7.53103 2.02333 6.51009 2.44622 5.75734 3.19897C5.0046 3.95172 4.58171 4.97266 4.58171 6.0372V10.7201H2.57477C2.21992 10.7201 1.87961 10.5791 1.62869 10.3282C1.37778 10.0773 1.23682 9.73694 1.23682 9.3821V6.70618C1.23682 6.35133 1.37778 6.01102 1.62869 5.7601C1.87961 5.50919 2.21992 5.36822 2.57477 5.36822H3.28523C3.44848 4.07502 4.07802 2.88583 5.05573 2.02379C6.03344 1.16174 7.29211 0.686096 8.59558 0.686096C9.89905 0.686096 11.1577 1.16174 12.1354 2.02379C13.1131 2.88583 13.7427 4.07502 13.9059 5.36822H14.6164ZM5.75911 10.5762L6.46823 9.44163C7.10581 9.84104 7.84322 10.0523 8.59558 10.0511C9.34793 10.0523 10.0853 9.84104 10.7229 9.44163L11.432 10.5762C10.5819 11.1088 9.59874 11.3906 8.59558 11.389C7.59242 11.3906 6.60921 11.1088 5.75911 10.5762Z" fill="#F9995D"/>
@@ -27,7 +28,7 @@ function Home() {
                 
               </div>
            
-              <div className="box2" id='box2'>
+              <div className="box2" id='box2'>{/* best teams box */}
               <svg width="50" height="50" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_757_134)">
 <path d="M14.6164 5.36822C14.9712 5.36822 15.3115 5.50919 15.5625 5.7601C15.8134 6.01102 15.9543 6.35133 15.9543 6.70618V9.3821C15.9543 9.73694 15.8134 10.0773 15.5625 10.3282C15.3115 10.5791 14.9712 10.7201 14.6164 10.7201H13.9059C13.7428 12.0134 13.1134 13.2028 12.1356 14.0649C11.1579 14.9271 9.89916 15.4029 8.59558 15.4029V14.0649C9.66012 14.0649 10.6811 13.6421 11.4338 12.8893C12.1866 12.1366 12.6094 11.1156 12.6094 10.0511V6.0372C12.6094 4.97266 12.1866 3.95172 11.4338 3.19897C10.6811 2.44622 9.66012 2.02333 8.59558 2.02333C7.53103 2.02333 6.51009 2.44622 5.75734 3.19897C5.0046 3.95172 4.58171 4.97266 4.58171 6.0372V10.7201H2.57477C2.21992 10.7201 1.87961 10.5791 1.62869 10.3282C1.37778 10.0773 1.23682 9.73694 1.23682 9.3821V6.70618C1.23682 6.35133 1.37778 6.01102 1.62869 5.7601C1.87961 5.50919 2.21992 5.36822 2.57477 5.36822H3.28523C3.44848 4.07502 4.07802 2.88583 5.05573 2.02379C6.03344 1.16174 7.29211 0.686096 8.59558 0.686096C9.89905 0.686096 11.1577 1.16174 12.1354 2.02379C13.1131 2.88583 13.7427 4.07502 13.9059 5.36822H14.6164ZM5.75911 10.5762L6.46823 9.44163C7.10581 9.84104 7.84322 10.0523 8.59558 10.0511C9.34793 10.0523 10.0853 9.84104 10.7229 9.44163L11.432 10.5762C10.5819 11.1088 9.59874 11.3906 8.59558 11.389C7.59242 11.3906 6.60921 11.1088 5.75911 10.5762Z" fill="#F9995D"/>
@@ -43,7 +44,7 @@ function Home() {
                  <p>Nullam senectus porttitor in eget. Eget rutrum leo interdum.</p>
                   
                 </div>
-                <div className="box3" id='box3'>
+                <div className="box3" id='box3'>{/* best design box */}
                 <svg width="70" height="70" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M14.7807 12.225L11.0679 8.51218L12.1182 7.46188L9.60952 4.95321L8.55923 6.00351L4.8464 2.29068L1.68213 5.45495L5.39496 9.16778L2.21062 12.3521V14.8608H4.71929L7.90363 11.6764L11.6165 15.3893L14.7807 12.225V12.225ZM6.34491 8.21783L3.57534 5.45495L4.8464 4.18389L5.696 5.03349L4.89991 5.82958L5.84317 6.77283L6.63926 5.97675L7.60928 6.94677L6.34491 8.21783V8.21783ZM8.85358 10.7265L10.1246 9.45544L11.0947 10.4255L10.2986 11.2215L11.2418 12.1648L12.0379 11.3687L12.8875 12.2183L11.6165 13.4894L8.85358 10.7265V10.7265ZM10.3273 4.23941L12.0252 2.54088L14.5325 5.04821L12.8347 6.74674L10.3273 4.23941Z" fill="#F9995D"/>
 </svg>
@@ -58,10 +59,10 @@ function Home() {
  </div>
 
   
- <div id="parent">
+ <div id="parent">{/* About Us section */}
 
-<div className="left"><img src="/img/man.jpg" alt="" /></div>
-<div className="right">
+<div className="left"><img src="/img/man.jpg" alt="" /></div>{/* man image */}
+<div className="right">{/* Writing section */}
   <h3>About Us</h3>
   <p>For more than 30 years we have been delivering world-class construction and we've built many lasting relationships along the way. <br /><br /> We've matured into an industry leader and trusted resource for those seeking quality, innovation and reliability when building in the U.S.</p>
   <button> <h6>more our history</h6></button>
@@ -69,11 +70,11 @@ function Home() {
   </div>
 </div>
 
-<div className="service" id='servicebg'>
+<div className="service">{/* Service section */}
             <h1>Services</h1>
-         <div className="img">
-           <div id="cons">
-           <svg width="130" height="130" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+         <div className="cards">{/* cards */}
+           <div id="cons">{/* Constrution/cons */}
+           <svg width="130" height="130" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">{/* Icon start */}
 <g clip-path="url(#clip0_757_157)">
 <rect x="0.454224" y="7.54596" width="9.3657" height="9.3657" fill="#7595FD"/>
 <path d="M13.1588 2.19409H6.48171C5.73848 2.19409 5.13706 2.7955 5.13706 3.53874V7.30977L1.99153 10.4152C1.89728 10.5084 1.83285 10.6275 1.80641 10.7574C1.77997 10.8873 1.79272 11.0221 1.84304 11.1447C1.89335 11.2674 1.97897 11.3723 2.08902 11.4462C2.19907 11.5201 2.32859 11.5596 2.46115 11.5598V14.9047C2.46115 15.0821 2.53163 15.2523 2.65709 15.3777C2.78255 15.5032 2.9527 15.5737 3.13013 15.5737H13.8338C14.0112 15.5737 14.1814 15.5032 14.3068 15.3777C14.4323 15.2523 14.5028 15.0821 14.5028 14.9047V3.53807C14.5028 2.7955 13.902 2.19409 13.1588 2.19409ZM7.7608 10.9651V14.2357H3.79911V10.5108L5.79735 8.53801L7.7608 10.547V10.9651V10.9651ZM9.15093 6.87694H7.81298V5.53898H9.15093V6.87694ZM11.8268 12.2288H10.4889V10.8908H11.8268V12.2288ZM11.8268 9.55285H10.4889V8.2149H11.8268V9.55285ZM11.8268 6.87694H10.4889V5.53898H11.8268V6.87694Z" fill="#292E3D"/>
@@ -84,7 +85,7 @@ function Home() {
 <rect width="16.0555" height="16.0555" fill="white" transform="translate(0.454224 0.85614)"/>
 </clipPath>
 </defs>
-</svg>
+</svg>{/* Icon end */}
 
 <hr />
   <h2>Construction</h2>
@@ -180,10 +181,10 @@ function Home() {
            </div>
            </div>
 
-           <div className="contact"> 
+           <div className="contact"> {/* Contact section */}
        <div className="boxess">
 
-<div id="box41">
+<div id="box41">{/* fourth box */}
         <img src="/img/icons/blueprint.png" alt="" height="100" width="100"/>
           <h1>30</h1>
            <br />
@@ -192,14 +193,14 @@ function Home() {
 
      
 
-     <div id="box31">
+     <div id="box31">{/* third box */}
         <img src="/img/icons/trophy.png" alt="" height="100" width="100"/>
           <h1>37</h1>
            <br />
           <h3>Awards Won</h3>
        </div>
 
-     <div id="box21">
+     <div id="box21">{/* second box */}
        <img src="/img/icons/notes.png" alt="" height="100" width="100"/>
           <h1>123</h1>
            <br />
@@ -207,14 +208,14 @@ function Home() {
       </div>
        
        
-      <div id="box11">
+      <div id="box11">{/* first box */}
          <img src="/img/icons/handshake.png" alt="" height="100" width="100"/>
           <h1>84</h1>
            <br />
         <h3>Happy Clients</h3>
       </div>
        </div>
-       <div className="writing">
+       <div className="writing">{/* the writing part */}
         <h1>30 Years <br /><br /> Experience</h1>
         <p>Our company has been the leading provided construction services to clients throughout the USA since 1988.</p>
        <div className="btn">
